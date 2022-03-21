@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+   text-align: center; 
+   margin: auto;
+   padding: 20px;
+}
+
+.item-entry {
+    display: flex;
+    justify-content: space-between;
+    padding: 32px;
+    border-radius:3px;
+    border:1px solid #dcdcdc;
+    margin-bottom: 8px;
+}
+
+.list-body {
+    padding: 32px;
+}
+
+.responsive {
+    max-width: 50%;
+    width: 100px;
+    height: auto;
+}
+
+.item-name {
+    text-transform: uppercase; 
+    color:#666666; 
+    font-size:20px; 
+    font-weight:bold;
+}
+
+.item-description {
+    font-size: 16px;
+    max-width: 300px;
+}
+
+.item-tlf {
+    font-weight: bold;
+}
+
+.item-rate {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
